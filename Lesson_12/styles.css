@@ -1,0 +1,17 @@
+.post {
+    display: flex;
+    flex-direction: column;
+    width: 18%;
+    height: 300px;
+    border: 1px solid black;
+    margin: 4px;
+    padding: 4px;
+    border-radius: 3%;
+}
+
+.mainDiv {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
